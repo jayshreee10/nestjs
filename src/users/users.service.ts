@@ -17,7 +17,7 @@ export class UsersService {
     email: 'bob@example.com',
     age: 34,
   },
-  {
+  { 
     id: 3,
     name: 'Charlie Brown',
     email: 'charlie@example.com',
